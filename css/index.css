@@ -1,0 +1,104 @@
+body
+{  display: flex;
+    justify-content: flex-start;
+    height: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+    
+
+body{
+    background-image: url(../images/backcover.svg);
+    background-repeat: no-repeat;
+    background-position: right 55% ;
+    background-size: 63%;
+    background-position-y: top 0;
+    font-size: 40%;
+    font-family: "Robot",sans-serif;
+
+}
+.main-div{
+    width: 88vw;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.nav-items{
+    display: flex;
+    color: rgb(98, 1, 151);
+    font-size: 20px;
+    
+}
+.nav-item{
+    padding: 20px;
+    
+}
+.signin-btn{
+    height: 25px;
+    width: 90px;
+    border: none;
+    border-radius: 30px;
+    margin-right: 30px;
+    background: linear-gradient(to right, #965cf2,#ff8adc);
+}
+.signin-btn:hover{
+    text-decoration: underline;
+    font-size: 10px;
+   
+
+}
+.intro-section{
+   display: flex;
+}
+.left-section h1{
+    margin-top: 160px;
+    font-size: 70px;
+    font-family: "Lato",sans-serif;
+    color: #4c56b4;
+    margin-left: 40px;
+}
+.left-section h4{
+    margin-top: 50px;
+    color: #718788;
+    font-size: 13px;
+    line-height: 20px;
+    width: 40%;
+    margin-left:40px;
+}
+.learn-more-btn{
+    margin-top: 60px;
+    margin-left: 40px;
+    height: 60px;
+    width: 250px;
+    background: linear-gradient(to right, #965cf2,#ff8adc);
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 30px;
+    border: none;
+}
+.learn-more-btn:hover {
+    text-decoration: underline;
+    font-size: 10px;
+
+}
+.vector-img{
+    margin-top: 40%;
+    right: 58%;
+    position: absolute;
+}
+.vector-dot{
+    position: absolute;
+    margin-top: 40%;
+
+}
+[alt="intro-img"]{
+    margin-right: 3rem;
+    height: 46rem;
+    margin-top: 60px;
+}
