@@ -4,7 +4,7 @@ This project is a responsive landing page designed to showcase web design servic
 # Overview
 *The landing page features:-*
 A navigation bar with links to Home, About, History, Blog, and Contact.
-A vibrant hero section with eye-catching illustrations and bold typography.
+A vibrant hero section with eye-catching illustrations and bold typography. 
 A gradient-styled Sign-In button for enhanced user interaction.
 # Technologies Used
 * HTML - Structure of the webpage.
